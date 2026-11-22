@@ -1,0 +1,23 @@
+# Generated files and local tools
+*.class
+/build/
+/out/
+/check-out/
+/new-results/
+/tmp/
+/output/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Full coursework history is preserved in mini-bank-project.zip
+/evidence/
+/prompts/
+/README.txt
+/docs/*
+!/docs/requirements-v1.md
+!/docs/architecture.md
+!/docs/llm-workflow.md
+/tests/results-*.md
+/tests/scenarios-v1.md

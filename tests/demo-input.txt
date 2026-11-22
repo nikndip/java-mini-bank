@@ -1,0 +1,5 @@
+balance A
+deposit A 1000
+transfer A B 250
+history
+exit
